@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MineSweeper</string>
+    <string name="text_current_mode">the current mode is %1$s</string>
+    <string name="text_gameover">you LOSE, try again!</string>
+    <string name="the_current_mode_is_try">the current mode is TRY</string>
+    <string name="toggle_try">TRY</string>
+    <string name="toggle_flag">Flag</string>
+    <string name="text_win">you WIN!</string>
+    <string name="discription">When you FLAG on a MINE, it appears as a circle. When you TRY on an EMPTY square, number of mines around the square appears.</string>
+    <string name="how_to_win">To win, flag all the MINES!</string>
+</resources>
